@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "name": "axios",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViolettaFilimonova/axios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViolettaFilimonova/axios/issues"
+  },
+  "homepage": "https://github.com/ViolettaFilimonova/axios#readme",
+  "description": ""
+}
